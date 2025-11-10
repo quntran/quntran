@@ -15,9 +15,3 @@
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-007ACC?logo=freertos&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-
----
-
-### 🧩 Featured Projects
-- 🌐 [IoT Sensor Hub With Web Control](https://github.com/thp-tran/IoT_Sensor_Hub_with_Web_Control)  
-  DHT sensor, WiFi AP/STA mode switch, and MQTT cloud integration  
