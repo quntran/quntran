@@ -69,12 +69,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quntran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=quntran&theme=transparent&hide_border=true)
+![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quntran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide_title=true&card_height=150)
+![GitHub Streak](https://streak-stats.demolab.com?user=quntran&theme=transparent&hide_border=true&card_height=150)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quntran&langs_count=10&layout=compact&theme=transparent&hide_border=true&card_width=600" />
-
-
-
-
-
-
