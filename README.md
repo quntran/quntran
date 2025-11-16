@@ -35,7 +35,7 @@
   </div>
   <div style="margin-left: 22px;">
     Co-op rope-physics platformer with scoring system & gameplay mechanics
-  </div>
+  </div><br>
 
 - <div style="margin-bottom: 25px;">
     🤖 <strong>TinyML IoT Platform (ESP32-S3 + FreeRTOS)</strong>
@@ -45,7 +45,7 @@
   </div>  
   <div style="margin-left: 22px;">
     Public Repository: https://github.com/quntran/Iot_Project
-  </div>
+  </div><br>
 
 - <div style="margin-bottom: 25px;">
     🔥 <strong>Reinforcement Learning – Flappy Bird (DQN)</strong>
@@ -55,7 +55,9 @@
   </div>
   <div style="margin-left: 22px;">
     Public Repository: https://github.com/quntran/DQN-With-FlappyBird
-  </div>
+  </div><br>
+
+
 
 - <div style="margin-bottom: 25px;">
     🌐 <strong>Discord Workflow Automation Bot</strong>
