@@ -19,7 +19,7 @@
 | Category | Skills |
 |----------|--------|
 | **Embedded Systems** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-002147?logo=freertos&logoColor=white) |
-| **FPGA** | ![Verilog](https://img.shields.io/badge/Verilog-303030?style=flat&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?logo=xilinx&logoColor=white) ![VexRiscv](https://img.shields.io/badge/-VexRiscv-2C3E50?style=flat&logoColor=F1C40F) |
+| **FPGA** | ![Verilog](https://img.shields.io/badge/Verilog-303030?style=flat&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?logo=xilinx&logoColor=white) ![SoCs](https://img.shields.io/badge/-SoCs-2C3E50?style=flat&logoColor=F1C40F) |
 | **AI / Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 | **Full Stack** | ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) |
 | **Game Development** | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
