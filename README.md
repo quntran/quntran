@@ -71,9 +71,9 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<!-- <div align="center">
     <img src="https://streak-stats.demolab.com?user=quntran&theme=transparent&hide_border=true&card_width=900" />
-</div>
+</div> -->
 <div align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=quntran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide_title=true&card_width=400"
