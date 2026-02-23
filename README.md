@@ -42,7 +42,7 @@
     Multi-task RTOS system, sensor drivers, LCD + NeoPixel control, and TinyML inference
   </div>  
   <div style="margin-left: 22px;">
-    Public Repository: https://github.com/quntran/Iot_Project
+    Public Repository: https://github.com/quang-tran0/Iot_Project
   </div><br>
 
 - <div style="margin-bottom: 25px;">
@@ -52,19 +52,8 @@
     A Deep Q-Learning agent trained to play Flappy Bird  
   </div>
   <div style="margin-left: 22px;">
-    Public Repository: https://github.com/quntran/DQN-With-FlappyBird
+    Public Repository: https://github.com/quang-tran0/DQN-With-FlappyBird
   </div><br>
-
-
-
-- <div style="margin-bottom: 25px;">
-    🌐 <strong>Discord Workflow Automation Bot</strong>
-    <img src="https://img.shields.io/badge/Private_Repo-gray?style=flat" height="18" />
-  <img src="https://img.shields.io/badge/Ongoing-blue?style=flat" height="18" />
-  </div>
-  <div style="margin-left: 22px;">
-    Full-stack NodeJS + GitHub API + Discord slash commands
-  </div>
 
 ---
 
