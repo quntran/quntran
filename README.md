@@ -2,7 +2,7 @@
 
 ###
 
-# 👋 Hi, I'm Quang Tran (quntran)
+# 👋 Hi, I'm Quang Tran
 
 🎓 Computer Engineering student at Ho Chi Minh University of Technology (HCMUT)  
 📫 Contact: **quang.trd05@gmail.com**
